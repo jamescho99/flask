@@ -5,3 +5,9 @@ pip install Flask-RESTful
 pip install Flask-SQLAlchemy
 
 
+git init
+git status
+git add .
+git commit -m "initial commit"
+git remote add origin git@github.com:jamescho99/flask.git
+# git remote remove origin
